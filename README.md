@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BAHADIRSENGUN
+- 👋 Hi, I’m Bahadır Sengun
 - 👀 I’m interested in "sport and code"
 - 🌱 I’m currently learning "c++"
 - 💞️ I’m looking to collaborate on "all time"
